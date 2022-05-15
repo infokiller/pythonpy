@@ -1,0 +1,8 @@
+-c requirements.txt
+ipython~=8.3
+isort~=5.10
+pip-tools~=6.6
+pylint~=2.13
+yapf~=0.32
+pytest~=7.1
+numpy~=1.22
